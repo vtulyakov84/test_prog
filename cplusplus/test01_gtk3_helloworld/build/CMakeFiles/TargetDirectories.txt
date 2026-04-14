@@ -1,3 +1,0 @@
-/home/user/develop/github/test_prog/cplusplus/gtktest01/build/CMakeFiles/hello_gtk.dir
-/home/user/develop/github/test_prog/cplusplus/gtktest01/build/CMakeFiles/edit_cache.dir
-/home/user/develop/github/test_prog/cplusplus/gtktest01/build/CMakeFiles/rebuild_cache.dir
