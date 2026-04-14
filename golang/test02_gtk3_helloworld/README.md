@@ -1,6 +1,6 @@
 ## Go + GTK в Linux: Hello World
 
-#### Вот пошаговое руководство по созданию простого GUI-приложения "Hello World" на Go с использованием GTK в Linux.
+#### Пошаговое руководство по созданию простого GUI-приложения "Hello World" на Go с использованием GTK в Linux.
 
 ### Шаг 1: Установка GTK и Go
 
@@ -11,6 +11,9 @@
 sudo apt update
 sudo apt install libgtk-3-dev gcc pkg-config
 ```
+
+> Внимание! В Alt Linux пакет `libgtk-3-dev` имеет название `libgtk+3-devel` - Development files and tools for GTK+ applications.
+
 
 ```bash
 # Проверка установки Go (если не установлен)
